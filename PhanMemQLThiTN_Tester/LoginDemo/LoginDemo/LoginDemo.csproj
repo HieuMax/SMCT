@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B54BF7F5-5219-42B7-A29B-9541F0E94342}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LoginDemo</RootNamespace>
+    <AssemblyName>LoginDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.90\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper.Contrib, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.Contrib.2.0.78\lib\net461\Dapper.Contrib.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\Downloads\TestFramework\TestFramework\[FTUApps.com] - Guna UI Framework Ultimate v2.0.0.1 + Keygen\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CauHoi.cs" />
+    <Compile Include="ChonMaHV_XemKQAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChonMaHV_XemKQAdmin.Designer.cs">
+      <DependentUpon>ChonMaHV_XemKQAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChuongCuaMonHoc.cs" />
+    <Compile Include="DeThi.cs" />
+    <Compile Include="KBClass\HocVien.cs" />
+    <Compile Include="LopHoc.cs" />
+    <Compile Include="MonHoc.cs" />
+    <Compile Include="TaoDeThi_AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoDeThi_AdminForm.Designer.cs">
+      <DependentUpon>TaoDeThi_AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XDForms\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XDForms\Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XDForms\DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XDForms\DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XDForms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XDForms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XDForms\HocVienForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XDForms\HocVienForm.Designer.cs">
+      <DependentUpon>HocVienForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XDForms\VaoThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XDForms\VaoThi.Designer.cs">
+      <DependentUpon>VaoThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemKetQuaHV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemKetQuaHV.Designer.cs">
+      <DependentUpon>XemKetQuaHV.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChonMaHV_XemKQAdmin.resx">
+      <DependentUpon>ChonMaHV_XemKQAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoDeThi_AdminForm.resx">
+      <DependentUpon>TaoDeThi_AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XDForms\Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XDForms\DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XDForms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="XDForms\HocVienForm.resx">
+      <DependentUpon>HocVienForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XDForms\VaoThi.resx">
+      <DependentUpon>VaoThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemKetQuaHV.resx">
+      <DependentUpon>XemKetQuaHV.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Places-user-identity-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preferences-desktop-user-password-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-right-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

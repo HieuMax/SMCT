@@ -1,0 +1,193 @@
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe.config
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+C:\Users\nguye\Desktop\LoginDemo\LoginDemo\obj\Debug\LoginDemo.FrmMain.resources
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+E:\Semester 2 - First year\C#\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\Phuc\Beta Vers\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKQAdmin.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\Pham mem quan li thi trac nghiem\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.DoiMatKhau.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+E:\Semester 2 - First year\C#\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.DoiMatKhau.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.DoiMatKhau.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\New folder\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.dll
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\bin\Debug\Dapper.Contrib.xml
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.SuggestedBindingRedirects.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.ChonMaHV_XemKQAdmin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\Project_pharse_setup.TaoDeThi_AdminForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.Admin.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.DoiMatKhau.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.HocVienForm.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XDForms.VaoThi.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.XemKetQuaHV.resources
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CopyComplete
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+D:\Study\VLU\HK2 - 22-23\CSLT\Project\New folder\Final Project\PhanMemQLThiTN_Tester\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
